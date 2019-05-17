@@ -5,6 +5,7 @@ Bayesian 기법을 이용해 우승 팀을 예측해 본 결과
 
 과연 밀워키가 실제로 우승할 수 있을까요?
 
+<NBA 플레이오프 진출 팀별 우승 확률 >
 ![alt text](https://github.com/bki1990/study_open/blob/master/Bayesian_NBA/win_plot.PNG?raw=true)
 ![alt text](https://github.com/bki1990/study_open/blob/master/Bayesian_NBA/win_probability.PNG?raw=true)
 
