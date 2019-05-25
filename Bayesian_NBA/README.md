@@ -11,3 +11,5 @@ Bayesian 기법을 이용해 우승 팀을 예측해 본 결과
 
 
 주의: 이것은 베이지안 기법을 연습한 것으로 실제 결과에는 책임지지 않습니다
+
+참고자료: Rizzo, M. L. (2007). Statistical computing with R. Chapman and Hall/CRC.
