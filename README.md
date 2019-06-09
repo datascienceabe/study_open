@@ -7,4 +7,7 @@
 - 베이지안 기법을 이용한 NBA 우승 팀 예측 ( Prediction of NBA Winner using Bayesian inference)
 - 트위터 이상치 탐지 기법 ( Tweeter Anolmaly dectection )
 - 추천 시스템
+- 텍스트 마이닝
+
+- 회귀분석
 - 
